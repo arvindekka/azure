@@ -3,4 +3,8 @@ changes - 1
 changes - 2
 changes - 4
 changes 5
+<<<<<<< HEAD
 in master
+=======
+from t1 branch
+>>>>>>> changes 5
